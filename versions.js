@@ -7,7 +7,7 @@
     },
     "2019.10": {
       "name": "2019.10",
-      "deprecated": true
+      "deprecated": false
     },
     "2019.7": {
       "name": "2019.7",
